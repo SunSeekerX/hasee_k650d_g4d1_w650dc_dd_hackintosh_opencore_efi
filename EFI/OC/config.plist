@@ -510,7 +510,7 @@
                     <key>Comment</key>
                     <string>V0.9.7</string>
                     <key>Enabled</key>
-                    <false/>
+                    <true/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/RealtekCardReader</string>
                     <key>MaxKernel</key>
@@ -528,7 +528,7 @@
                     <key>Comment</key>
                     <string>V1.0.4</string>
                     <key>Enabled</key>
-                    <false/>
+                    <true/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/RealtekCardReaderFriend</string>
                     <key>MaxKernel</key>
@@ -750,7 +750,7 @@
                 <key>PickerMode</key>
                 <string>External</string>
                 <key>PickerVariant</key>
-                <string>Acidanthera\Owl</string>
+                <string>Acidanthera\GoldenGate</string>
                 <key>PollAppleHotKeys</key>
                 <false/>
                 <key>ShowPicker</key>

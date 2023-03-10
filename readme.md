@@ -18,10 +18,10 @@
 
 CFGLock 检查和部分 bios 设置：
 
-| Describe        | Screenshot                                                   |
-| --------------- | ------------------------------------------------------------ |
-| CFGLock         | <img src="./assets/02093341.webp" alt="02093341" style="zoom:25%;" /> |
-| VerifyMsrE2     | <img src="./assets/02093346.webp" alt="02093346" style="zoom:25%;" /> |
+| Describe        | Screenshot                                                                  |
+| --------------- | --------------------------------------------------------------------------- |
+| CFGLock         | <img src="./assets/02093341.webp" alt="02093341" style="zoom:25%;" />       |
+| VerifyMsrE2     | <img src="./assets/02093346.webp" alt="02093346" style="zoom:25%;" />       |
 | Bios - Main     | <img src="./assets/WechatIMG26.webp" alt="WechatIMG26" style="zoom:25%;" /> |
 | Bios - Advanced | <img src="./assets/WechatIMG27.webp" alt="WechatIMG27" style="zoom:25%;" /> |
 | Bios - Security | <img src="./assets/WechatIMG28.webp" alt="WechatIMG28" style="zoom:25%;" /> |
@@ -30,13 +30,13 @@ CFGLock 检查和部分 bios 设置：
 ## Bios 设置
 
 - 硬盘模式改 AHCI
-- Advanced -> Power and performance -> CPU Power management control -> CPU Lock configuration  -> Disable
-- Advanced -> Advanced chipset control -> Fast boot -> Disabled 
-- Advanced -> Advanced chipset control -> Sw Guide extensions -> Disabled 
-- Advanced -> Advanced chipset control -> VT-D -> Disabled 
-- Security -> Secure Boot -> Disabled 
-- Boot -> Uefi Setting -> Uefi boot -> enable 
-- Boot -> Uefi Setting -> Lunch csm -> Disable 
+- Advanced -> Power and performance -> CPU Power management control -> CPU Lock configuration -> Disable
+- Advanced -> Advanced chipset control -> Fast boot -> Disabled
+- Advanced -> Advanced chipset control -> Sw Guide extensions -> Disabled
+- Advanced -> Advanced chipset control -> VT-D -> Disabled
+- Security -> Secure Boot -> Disabled
+- Boot -> Uefi Setting -> Uefi boot -> enable
+- Boot -> Uefi Setting -> Lunch csm -> Disable
 
 ## 安装说明
 
@@ -87,21 +87,21 @@ CFGLock 检查和部分 bios 设置：
 
 ![iShot_2023-02-07_20.13.57](./assets/iShot_2023-03-02_16.59.17.webp)
 
-| Describe   | Screenshot                                                   |
-| ---------- | ------------------------------------------------------------ |
-| 静音       | <img src="./assets/iShot_2023-03-02_16.59.44.webp" style="zoom:25%;" /> |
-| 亮度快捷键 | 不能用 🥵                                                     |
+| Describe   | Screenshot                                                               |
+| ---------- | ------------------------------------------------------------------------ |
+| 静音       | <img src="./assets/iShot_2023-03-02_16.59.44.webp" style="zoom:25%;" />  |
+| 亮度快捷键 | 不能用 🥵                                                                |
 | Nvme       | <img src="./assets/iShot_2023-03-02_17.00.19.webp" style="zoom: 50%;" /> |
-| USB        | <img src="./assets/iShot_2023-03-02_17.00.38.webp" style="zoom:50%;" /> |
-| 以太网     | <img src="./assets/iShot_2023-03-02_17.00.50.webp" style="zoom:50%;" /> |
-| 内存       | <img src="./assets/iShot_2023-03-02_17.01.55.webp" style="zoom:50%;" /> |
-| 显卡       | <img src="./assets/iShot_2023-03-02_17.01.59.webp" style="zoom:50%;" /> |
-| 摄像头     | <img src="./assets/iShot_2023-03-02_17.02.03.webp" style="zoom:50%;" /> |
-| 电源       | <img src="./assets/iShot_2023-03-02_17.02.17.webp" style="zoom:50%;" /> |
-| 蓝牙       | <img src="./assets/iShot_2023-03-02_17.02.28.webp" style="zoom:50%;" /> |
-| 读卡器     | ~                                                            |
-| 音频       | <img src="./assets/iShot_2023-03-02_17.02.47.webp" style="zoom:50%;" /> |
-| WIFI       | <img src="./assets/iShot_2023-03-02_17.03.23.webp" style="zoom:50%;" /> |
+| USB        | <img src="./assets/iShot_2023-03-02_17.00.38.webp" style="zoom:50%;" />  |
+| 以太网     | <img src="./assets/iShot_2023-03-02_17.00.50.webp" style="zoom:50%;" />  |
+| 内存       | <img src="./assets/iShot_2023-03-02_17.01.55.webp" style="zoom:50%;" />  |
+| 显卡       | <img src="./assets/iShot_2023-03-02_17.01.59.webp" style="zoom:50%;" />  |
+| 摄像头     | <img src="./assets/iShot_2023-03-02_17.02.03.webp" style="zoom:50%;" />  |
+| 电源       | <img src="./assets/iShot_2023-03-02_17.02.17.webp" style="zoom:50%;" />  |
+| 蓝牙       | <img src="./assets/iShot_2023-03-02_17.02.28.webp" style="zoom:50%;" />  |
+| 读卡器     | ~                                                                        |
+| 音频       | <img src="./assets/iShot_2023-03-02_17.02.47.webp" style="zoom:50%;" />  |
+| WIFI       | <img src="./assets/iShot_2023-03-02_17.03.23.webp" style="zoom:50%;" />  |
 
 ## 部分 efi 截图
 
@@ -112,6 +112,11 @@ CFGLock 检查和部分 bios 设置：
 |  Kernel  | ![iShot_2023-03-02_17.04.52.webp](./assets/iShot_2023-03-02_17.04.52.webp) |
 
 ## 更新日志
+
+### 2023-03-10
+
+- 尝试使用 mod 版本的 oc
+- 修改主题为 mod 版本的 oc 主题
 
 ### 2023-03-02
 
